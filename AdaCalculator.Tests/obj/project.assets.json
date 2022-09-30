@@ -6265,9 +6265,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takes\\Source\\Repos\\AdaCalculatorRobson\\AdaCalculator.Tests\\AdaCalculator.Tests.csproj",
-      "projectName": "AdaCalculator.Tests",
-      "projectPath": "C:\\Users\\takes\\Source\\Repos\\AdaCalculatorRobson\\AdaCalculator.Tests\\AdaCalculator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\takes\\Source\\Repos\\AdaCalculatorRobson\\AdaCalculator.Tests\\AdaCalculatorTest.csproj",
+      "projectName": "AdaCalculatorTest",
+      "projectPath": "C:\\Users\\takes\\Source\\Repos\\AdaCalculatorRobson\\AdaCalculator.Tests\\AdaCalculatorTest.csproj",
       "packagesPath": "C:\\Users\\takes\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\takes\\Source\\Repos\\AdaCalculatorRobson\\AdaCalculator.Tests\\obj\\",
       "projectStyle": "PackageReference",

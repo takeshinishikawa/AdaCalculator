@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdaCalculator", "AdaCalculator\AdaCalculator.csproj", "{920EBA00-E87C-437F-9B25-ED4ED3878B94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaCalculator.Tests", "AdaCalculator.Tests\AdaCalculator.Tests.csproj", "{45ED6B7A-4CA5-4F4B-8E26-13F671FC5008}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaCalculatorTest", "AdaCalculator.Tests\AdaCalculatorTest.csproj", "{45ED6B7A-4CA5-4F4B-8E26-13F671FC5008}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,7 @@
+using AdaCalculator;
 using Moq;
 
-namespace AdaCalculator.Tests
+namespace AdaCalculatorTest
 {
     public class CalculateUnitTest
     {
