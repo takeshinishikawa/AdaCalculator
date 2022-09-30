@@ -1,0 +1,15 @@
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\bin\Debug\net6.0\AdaCalculator.exe
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\bin\Debug\net6.0\AdaCalculator.deps.json
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\bin\Debug\net6.0\AdaCalculator.runtimeconfig.json
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\bin\Debug\net6.0\AdaCalculator.dll
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\bin\Debug\net6.0\AdaCalculator.pdb
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.AssemblyReference.cache
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfoInputs.cache
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfo.cs
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.dll
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\refint\AdaCalculator.dll
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.pdb
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\AdaCalculator.genruntimeconfig.cache
+C:\Users\takes\Source\Repos\AdaCalculatorRobson\AdaCalculator\obj\Debug\net6.0\ref\AdaCalculator.dll
